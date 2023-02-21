@@ -115,26 +115,16 @@ nav ul li p:hover {
   align-items: center;
   padding-bottom: 10px;
 }
-.content2 .prodesc {
+.content2 .doodles {
   margin-top: 33px;
   margin-bottom: 13px;
 }
 
-.content2 .prodesc img {
-  width: 370px;
+.content2 .doodles img {
+  width: 554px;
 }
 
-.content2 .proimg {
-  margin-top: 22px;
-  position: relative;
-  left: 37px;
-}
-
-.content2 .proimg img {
-  width: 800px;
-}
-
-.bag-items {
+.dropdown-items {
   display: none;
   filter: blur(0px);
   z-index: 10;
@@ -148,25 +138,25 @@ nav ul li p:hover {
   display: flex;
   align-items: center;
   flex-direction: column;
-  background-color: white;
+  background-color: #e6ddd6;
   transition: 0.5s;
   border-radius: 10px;
-  border: 1px solid #d2d2d7;
+  border: 1px solid #e6ddd6;
   display: none;
   filter: blur(0px);
   z-index: 10;
 }
 
-.bag-items ul {
+.dropdown-items ul {
   list-style-type: none;
 }
 
-.bag-items ul li a {
+.dropdown-items ul li a {
   text-decoration: none;
   color: #6666d1;
 }
 
-.bag-items ul li {
+.dropdown-items ul li {
   box-sizing: border-box;
   padding: 11px;
   padding-left: 28px;
@@ -176,7 +166,7 @@ nav ul li p:hover {
   margin: 0px 10px;
 }
 
-.bag-items p {
+.dropdown-items p {
   text-align: center;
   padding: 25px 0px;
   width: 100%;
