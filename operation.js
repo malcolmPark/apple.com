@@ -1,13 +1,13 @@
-var bag = document.getElementById("bag-icon");
-var bagItems = document.getElementById("bag-items");
+var self = document.getElementById("self-photo");
+var dditems = document.getElementById("dropdown-items");
 var body = document.getElementById("body");
 
-bagItems.style.display = "none";
+dditems.style.display = "none";
 
-bag.addEventListener("click", () => {
-  if (bagItems.style.display === "none") {
-    bagItems.style.display = "block";
+self.addEventListener("click", () => {
+  if (dditems.style.display === "none") {
+    dditems.style.display = "block";
   } else {
-    bagItems.style.display = "none";
+    dditems.style.display = "none";
   }
 });
