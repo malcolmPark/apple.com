@@ -91,20 +91,20 @@ nav ul li p:hover {
   background-color: #fbfbfd;
   padding-bottom: 8px;
 }
-.content .iphone12desc {
+.content .purple {
   margin-top: 43px;
   margin-bottom: 13px;
 }
-.content .iphone12desc img {
+.content .purple img {
   width: 255px;
 }
 
-.content .iphone12img {
+.content .orange {
   margin-top: 22px;
 }
 
-.content .iphone12img img {
-  width: 764px;
+.content .orange img {
+  width: 300px;
 }
 
 .content2 {
