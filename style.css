@@ -12,7 +12,7 @@ nav {
   height: 45px;
   top: 0px;
 
-  background-color: rgb(49 48 48);
+  background-color: rgb(#7431a7);
   position: sticky;
 }
 
@@ -23,13 +23,7 @@ nav .logo {
   top: -1px;
   cursor: pointer;
 }
-nav .searching {
-  position: relative;
-  right: -351px;
-  width: 28px;
-  top: 1px;
-  cursor: pointer;
-}
+
 nav .bag {
   position: relative;
   left: 424px;
@@ -55,14 +49,14 @@ nav ul li {
   font-size: 14px;
 }
 
-nav ul li a {
+nav ul li p {
   text-decoration: none;
-  color: rgb(197 197 197);
+  color: rgba(124, 248, 255, 0.934);
   transition: 0.4s;
 }
 
-nav ul li a:hover {
-  color: white;
+nav ul li p:hover {
+  color: rgb(124, 248, 255);
 }
 
 .moreinfo {
