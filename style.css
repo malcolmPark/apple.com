@@ -62,7 +62,7 @@ nav ul li p:hover {
 .moreinfo {
   width: 100%;
 
-  background-color: #f5f5f7;
+  background-color: #7431a7c0;
   height: 45px;
   display: flex;
   align-items: center;
@@ -153,7 +153,7 @@ nav ul li p:hover {
   z-index: 10;
 }
 
-.bag-items {
+.dropdown-items {
   width: 200px;
   position: fixed;
   top: 50px;
