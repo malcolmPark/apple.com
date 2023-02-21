@@ -99,19 +99,6 @@ nav ul li p:hover {
   width: 255px;
 }
 
-.iphone12-links a {
-  font-family: "Fira Sans", sans-serif;
-  font-size: 21px;
-  text-decoration: none;
-  color: rgb(81 114 232);
-  margin-right: 10px;
-  margin-left: 12px;
-}
-
-.iphone12-links a:hover {
-  border-bottom: 1px solid #5171e3;
-}
-
 .content .iphone12img {
   margin-top: 22px;
 }
